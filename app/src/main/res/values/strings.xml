@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">DialogDemo</string>
+    <string name="app_name">JDBottomDialog</string>
     <string name="btn_confirm_str">Confirm</string>
     <string name="btn_cancel_str">Cancel</string>
     <string name="dialog_message_str">底部DialogMessage，底部DialogMessage，底部DialogMessage，底部DialogMessage，底部DialogMessage，底部DialogMessage，底部DialogMessage，底部DialogMessage...</string>
