@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DialogDemo</string>
+    <string name="btn_confirm_str">Confirm</string>
+    <string name="btn_cancel_str">Cancel</string>
+    <string name="dialog_message_str">底部DialogMessage，底部DialogMessage，底部DialogMessage，底部DialogMessage，底部DialogMessage，底部DialogMessage，底部DialogMessage，底部DialogMessage...</string>
+    <string name="dialog_title_str">底部DialogTitle</string>
+</resources>
